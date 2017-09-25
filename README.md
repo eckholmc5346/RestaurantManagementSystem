@@ -10,7 +10,7 @@ Valid username and password combonations for logging in are as follows:
 Username    Password
 
 admin       password
-\n
+<\n>
 ryan        moeller
 
 --------------------
