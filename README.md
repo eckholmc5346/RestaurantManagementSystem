@@ -6,7 +6,7 @@ Most of the GUI elements were built using a plugin for Eclipse called WindowBuil
 
 If you want to actually run and use the program outside of an IDE, download the Jar folder.
 
-If you want to bring the code into an IDE to view/edit, download the Code folder.
+If you want to bring the code into an IDE to view/edit, download the Objects and GUI folders.
 
 
 
