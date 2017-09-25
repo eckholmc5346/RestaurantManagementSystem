@@ -7,10 +7,6 @@ Most of the GUI elements were built using a plugin for Eclipse called WindowBuil
 
 Valid username and password combonations for logging in are as follows:
 ---------------------
-Username    Password
-
-admin       password
-<\n>
-ryan        moeller
-
---------------------
+[Username , Password]
+[admin , password]
+[ryan , moeller]
