@@ -10,7 +10,7 @@ If you want to bring the code into an IDE to view/edit, download the Objects and
 
 
 
-Valid username and password combonations for logging in are as follows:
+Valid username and password pairs for logging in are as follows:
 ---------------------
 [Username , Password]
 [admin , password]
